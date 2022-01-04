@@ -1,0 +1,127 @@
+body
+{
+    background-color: rgb(247, 226, 238);
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+    text-align:center;
+    font-family: 'Pushster';
+    color: #4a12b3;
+    
+}
+img 
+       {
+        
+           width: 200px;
+       }
+main{
+    font-size: 20px;
+    text-align: left;
+    margin: 50px 100px 50px 100px;
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(101, 101, 161);
+    border-radius: 10px;
+    color: cornsilk;
+}
+
+span {
+    background-color: cornsilk;
+    color: rgb(36, 36, 184);
+    border-radius: 5px;
+    padding: 1px 4px 1px 4px;
+}
+span1 {
+    font-weight: 900;
+    color: rgb(249, 249, 250);
+    border-radius: 5px;
+    padding: 1px 4px 1px 4px;
+}
+
+li {font-size: 20px;
+
+}
+
+
+a {
+    font-size: 20px;
+    background-color: rgb(243, 201, 35);
+    color: #130101;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin: 50px 100px 50px 100px;
+  
+}
+#first
+{margin-bottom: -20px;}
+
+
+
+/* 
+       img 
+       {
+        
+           width: 20px;
+           border: 1px solid black;
+           margin: 100px;
+       }
+       
+       body
+       {
+        text-align: center;
+    
+
+       }
+       h1 {
+            text-align:left;
+            font-family: 'Pushster';
+            color: #745a5a;
+            margin: -200px;
+            padding: 200px 100px 10px 500px;
+
+            border: 1px solid black;
+        }
+        h2{
+            
+            margin: 50px 20px;
+padding: 20px 100px 20px 500px;
+border: 1px dashed black;
+box-shadow: 2px 5px black;
+        }
+
+        h3{
+            
+            margin: 50px 20px;
+padding: 20px 100px 20px 500px;
+border: 1px dashed black;
+box-shadow: 2px 5px black;
+
+        }
+
+        h1 h2 h3
+   
+        #bilgi {
+            text-align: left;
+            font-family: fantasy;
+            color: #070707;
+        }
+
+        p1 {
+            text-align: left;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #745a5a;
+        }
+    
+        
+        #bankakopya
+        {
+            width: 380px;
+        }
+        body
+        {
+            background-color: aqua;
+
+          /* box-shadow: 5px 2px 3px rgb(red, green, blue); */
+
+
+         */
